@@ -13,3 +13,5 @@
 4-listmorefiles display hidden files
 
 5-listfilesdigitonly display hidden files, and group IDs
+
+6-firstdirectory create new directory /tmp/holberton
