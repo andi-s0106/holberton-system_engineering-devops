@@ -33,4 +33,6 @@
 
 14-copy_html copy .html file from working directory to parent directory
 
-15-lets_move move files biginning with uppercase to /tmp/u
+15-lets_move move files biginning with uppercase to /tmp/u\
+
+16-clean_emacs remove emacs (~) files
