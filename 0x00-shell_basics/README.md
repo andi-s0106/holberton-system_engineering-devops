@@ -28,3 +28,5 @@
 11-lists lists all files for the working directory, parent directory and the directory /boot.
 
 12-file_type determine the file type for /tmp/imafile
+
+13-symbolic_link add symbolic link from /bin/ls to ./__ls__
