@@ -26,3 +26,5 @@
 10-back change to previous directory
 
 11-lists lists all files for the working directory, parent directory and the directory /boot.
+
+12-file_type determine the file type for /tmp/imafile
