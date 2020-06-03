@@ -36,3 +36,5 @@
 15-lets_move move files biginning with uppercase to /tmp/u\
 
 16-clean_emacs remove emacs (~) files
+
+17-tree create tree directory
