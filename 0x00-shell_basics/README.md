@@ -24,3 +24,5 @@
 9-firstdirdeletion delete the directory /tmp/holberton
 
 10-back change to previous directory
+
+11-lists lists all files for the working directory, parent directory and the directory /boot.
