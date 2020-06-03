@@ -1,3 +1,4 @@
+
 #0x00. Shell, basics
 
 0x00. Shell, basics
@@ -19,3 +20,5 @@
 7-movethatfile move file Betty from /tmp to /tmp/holberton
 
 8-firstdelete delete the file /tmp/holberton/betty
+
+9-firstdirdeletion delete the directory /tmp/holberton
