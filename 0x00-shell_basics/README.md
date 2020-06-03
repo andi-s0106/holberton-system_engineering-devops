@@ -17,3 +17,5 @@
 6-firstdirectory create new directory /tmp/holberton
 
 7-movethatfile move file Betty from /tmp to /tmp/holberton
+
+8-firstdelete delete the file /tmp/holberton/betty
