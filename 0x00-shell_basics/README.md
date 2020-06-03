@@ -38,3 +38,5 @@
 16-clean_emacs remove emacs (~) files
 
 17-tree create tree directory
+
+18-commas list with commas, append / to directories, show all
