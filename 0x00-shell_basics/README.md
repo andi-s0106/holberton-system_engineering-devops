@@ -32,3 +32,5 @@
 13-symbolic_link add symbolic link from /bin/ls to ./__ls__
 
 14-copy_html copy .html file from working directory to parent directory
+
+15-lets_move move files biginning with uppercase to /tmp/u
