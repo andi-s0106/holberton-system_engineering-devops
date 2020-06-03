@@ -30,3 +30,5 @@
 12-file_type determine the file type for /tmp/imafile
 
 13-symbolic_link add symbolic link from /bin/ls to ./__ls__
+
+14-copy_html copy .html file from working directory to parent directory
