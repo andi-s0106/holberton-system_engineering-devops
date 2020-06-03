@@ -11,3 +11,5 @@
 3-listfiles display current directory contents in ong format.
 
 4-listmorefiles display hidden files
+
+5-listfilesdigitonly display hidden files, and group IDs
