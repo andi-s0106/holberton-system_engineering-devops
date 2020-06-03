@@ -22,3 +22,5 @@
 8-firstdelete delete the file /tmp/holberton/betty
 
 9-firstdirdeletion delete the directory /tmp/holberton
+
+10-back change to previous directory
