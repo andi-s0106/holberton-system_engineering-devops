@@ -15,3 +15,5 @@
 5-listfilesdigitonly display hidden files, and group IDs
 
 6-firstdirectory create new directory /tmp/holberton
+
+7-movethatfile move file Betty from /tmp to /tmp/holberton
