@@ -19,3 +19,5 @@
 8-James_Bond lol
 
 9-John_Doe chandes the permissions to -rwxr-x-wx
+
+10-mirror_permissions mirror the permissions of file olleh to the file hello
