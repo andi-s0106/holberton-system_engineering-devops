@@ -5,3 +5,5 @@
 1-who_am_i prints current user ID
 
 2-groups prints current user's groups
+
+3-new_owner changes the owner of the file hello
