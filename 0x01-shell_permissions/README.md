@@ -9,3 +9,5 @@
 3-new_owner changes the owner of the file hello
 
 4-empty creates the empy file hello
+
+5-execute adds execute permissions for the owner of file hello
