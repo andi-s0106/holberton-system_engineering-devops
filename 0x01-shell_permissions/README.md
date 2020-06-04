@@ -17,3 +17,5 @@
 7-everybody adds execution permission for all users to the file hello
 
 8-James_Bond lol
+
+9-John_Doe chandes the permissions to -rwxr-x-wx
