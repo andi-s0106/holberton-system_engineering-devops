@@ -11,3 +11,5 @@
 4-empty creates the empy file hello
 
 5-execute adds execute permissions for the owner of file hello
+
+6-multiple_permissions add executable permission for the owner and group, and reading for other users
