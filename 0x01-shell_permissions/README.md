@@ -21,3 +21,6 @@
 9-John_Doe chandes the permissions to -rwxr-x-wx
 
 10-mirror_permissions mirror the permissions of file olleh to the file hello
+
+11-directories_permissions added executable permissions for all users to all subdirectories
+
