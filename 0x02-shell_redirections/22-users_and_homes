@@ -1,2 +1,2 @@
 #!/bin/bash
-grep /usr/ passwd-test | grep -v /var/ | sort
+sort /etc/passwd | cut -d ':' -f 1,6
