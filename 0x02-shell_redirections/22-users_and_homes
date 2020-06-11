@@ -1,0 +1,2 @@
+#!/bin/bash
+grep /usr/ passwd-test | grep -v /var/ | sort
