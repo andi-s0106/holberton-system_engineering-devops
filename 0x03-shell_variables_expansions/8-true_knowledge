@@ -1,2 +1,3 @@
 #!/bin/bash
-(( e = 128 + TRUEKNOWLEDGE )) | echo $e
+let a=128+$TRUEKNOWLEDGE
+echo $a
