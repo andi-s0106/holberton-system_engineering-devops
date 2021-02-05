@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# prints holberton school and hi on the 9th operation
+n=0
+while ((n < 10))
+do
+    echo "Holberton School"
+    if ((n == 8))
+    then
+        echo "Hi"
+    fi
+    n=$((n+1))
+done

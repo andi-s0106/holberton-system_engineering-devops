@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# using until to print
+n=0
+until ((n  > 9))
+do
+    echo "Holberton School"
+    n=$((n+1))
+done
