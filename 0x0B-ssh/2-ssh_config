@@ -1,0 +1,3 @@
+Host ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/holberton
