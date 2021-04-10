@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # Sets up an nginx web server
 sudo apt-get install -y nginx
-echo "Holberton School for the win!" > /usr/share/nginx/html/index.html
+sudo bash -c 'echo "Holberton School for the win!" > /var/www/html/index.nginx-debian.html'
 sudo service nginx restart
